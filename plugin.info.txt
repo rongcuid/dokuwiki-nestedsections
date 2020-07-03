@@ -1,0 +1,7 @@
+base   nestedsections
+author Rongcui Dong
+email  rongcuid@outlook.com
+date   2020-07-03
+name   nestedsections plugin
+desc   Section edit includes lower level sections
+url    https://github.com/rongcuid/dokuwiki-nestedsections
